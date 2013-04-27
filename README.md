@@ -3,6 +3,11 @@ puke: cucumber step definition vomit
 
 Pukes out cucumber step definitions in Ruby
 
+Install:
+-------
+Put this file in your bin/ directory:
+https://raw.github.com/UNIXgod/puke/master/puke
+
 Usage:
 ------
 
